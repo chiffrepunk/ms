@@ -1,0 +1,15 @@
+On 23.12.21 20:22, Stefan Claas wrote:
+[...]
+
+>
+> Yes, I am aware of that, but how can one memorize a key when traveling
+> and not taking any devices with him?
+>
+
+If you pick your random password out of base64-characters (basically
+lower case letters, upper case letters, numbers and 2 symbols), 20
+characters give you 120 bits of entropy. Make them into 5 groups of 4
+characters and make a short story for each of those 5 groups. That's 2
+hours of work for as much password as you will ever need for the rest of
+your life. That's what I call a good investment. You can derive any real
+password you ever need from this master password.
